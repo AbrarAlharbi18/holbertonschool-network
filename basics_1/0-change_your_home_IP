@@ -3,3 +3,4 @@
 
 # Utilisation de sudo pour ajouter les entrées nécessaires au fichier /etc/hosts
 sudo bash -c 'echo -e "127.0.0.2 localhost\n8.8.8.8 facebook.com" > /etc/hosts'
+
